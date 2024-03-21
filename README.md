@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-https://wakatime.com/badge/user/018e6020-9997-42cf-93a8-fec77bb56871/project/018e6151-72ae-47e2-b914-7b9ec752c21b.svg
+<img scr="https://wakatime.com/badge/user/018e6020-9997-42cf-93a8-fec77bb56871/project/018e6151-72ae-47e2-b914-7b9ec752c21b.svg"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
