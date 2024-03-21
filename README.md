@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
+(https://img.shields.io/visual-studio-marketplace/v/WakaTime.vscode-wakatime.png?label=Visual%20Studio%20Marketplace)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
